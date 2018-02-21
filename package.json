@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-pugme",
-  "version": "1.0.31",
+  "version": "1.0.33",
   "description": "",
   "main": "source/mix.js",
   "scripts": {
