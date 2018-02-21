@@ -16,7 +16,7 @@ mix.js('src/app.js', 'source/to/dist')
    .sass('src/app.scss', 'source/to/dist')
    .pug('src/*.pug', 'source/to/dist', {
       pretty: true,
-      debug: false;
+      debug: false,
       etc
     })
    
